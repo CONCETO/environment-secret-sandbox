@@ -6,3 +6,7 @@ value4=[{"path":"deployment-configs/PRO/customer1/ci.tenant.env", "customer":"cu
 {"path":"deployment-configs/PRO/customer2/ci.tenant.env", "customer":"customer2"}]
 value5=[{"path":"deployment-configs/PRO/customer1/ci.tenant.env", "customer":"customer1"},
 {"path":"deployment-configs/PRO/customer2/ci.tenant.env", "customer":"customer2"}]
+{"successful": true,  "customer": "c1"}
+value={"successful": true,  "customer": "c1"}
+value={"successful": true,  "customer": "$customer"}
+value={"successful": true, "customer": "c1"}
