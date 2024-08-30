@@ -2,3 +2,7 @@ foo
 ["QA_CUSTOMER1","QA_CUSTOMER_2"]
 value=["QA_CUSTOMER1","QA_CUSTOMER_2"]
 value3=[{"envName": "QA_CUSTOMER1", "age": 100 },{"envName": "QA_CUSTOMER_2", "age": 27}]
+value4=[{"path":"deployment-configs/PRO/customer1/ci.tenant.env", "customer":"customer1"},
+{"path":"deployment-configs/PRO/customer2/ci.tenant.env", "customer":"customer2"}]
+value5=[{"path":"deployment-configs/PRO/customer1/ci.tenant.env", "customer":"customer1"},
+{"path":"deployment-configs/PRO/customer2/ci.tenant.env", "customer":"customer2"}]
