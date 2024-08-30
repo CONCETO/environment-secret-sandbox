@@ -1,3 +1,4 @@
 foo
 ["QA_CUSTOMER1","QA_CUSTOMER_2"]
 value=["QA_CUSTOMER1","QA_CUSTOMER_2"]
+value3=[{"envName": "QA_CUSTOMER1", "age": 100 },{"envName": "QA_CUSTOMER_2", "age": 27}]
